@@ -1,12 +1,12 @@
 # PacmanCPP
 Pacman game using console application.  
 On easy level ghosts move randomaly. On harder levels they have smarter moves, using BFS algorithm.  
-The game is looking for ".screen" type of files, reading the board from it and prints it to the console.
+The game is looking for ".screen" type of files, reading the board from it and prints it to the console.  
 Once in a few seconds appears a fruit that gives extra points if Pacman eats it.  
 
-Pacman is marked with C character.
-Ghosts are marked with $ character.
-Fruit is marked with the number of points it gives (5-9).
+Pacman is marked with C character.  
+Ghosts are marked with $ character.  
+Fruit is marked with the number of points it gives (5-9).  
 
 Images:  
 <img width="672" alt="178500689-64e066c9-8ca5-42d3-b154-04b24f53d834" src="https://user-images.githubusercontent.com/57681792/178501706-dbf3e7cc-9138-4f06-bfd4-51631518601d.png">
